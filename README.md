@@ -1,16 +1,13 @@
-## Hi there 👋
+# James Su
 
-<!--
-**jmesbtw/jmesbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student at Northeastern, and I mostly spend my free time getting robots to do things.
 
-Here are some ideas to get you started:
+Right now I'm building a robotic arm that draws. I also draw by hand, mostly pencil sketches, so I'm curious how close I can get a machine to something that looks hand-made.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before that, I built a robot that follows a person around. It runs on an NVIDIA Jetson and uses object detection to pick out who to follow and keep them in frame. Getting it to work reliably in real time taught me more than most of my classes.
+
+What I want to work on long-term is the overlap between robotics and neuroscience: how what we know about brains can shape the way robots perceive and move.
+
+Outside of that I do art, listen to music, avid movie goer, play video games, and lift at the gym.
+
+Reach me at jsu0678@gmail.com
